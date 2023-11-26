@@ -1,4 +1,48 @@
 env
 node_modules
-SAORA\notas.txt
-SAORA2\SAORA\SAORA\.env
+SAORA/notas.txt
+*.env
+
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+saora_front/node_modules
+saora_front/npm-debug.log
+saora_front/yarn-error.log
+
+# IDEs and editors
+saora_front/idea/
+saora_front/project
+saora_front/classpath
+saora_front/c9/
+*.launch
+saora_front/settings/
+*.sublime-workspace
+
+# Visual Studio Code
+saora_front/vscode/*
+!saora_front/vscode/settings.json
+!saora_front/vscode/tasks.json
+!saora_front/vscode/launch.json
+!saora_front/vscode/extensions.json
+saora_front/history/*
+
+# Miscellaneous
+saora_front/angular/cache
+saora_front/sass-cache/
+saora_front/connect.lock
+saora_front/coverage
+saora_front/libpeerconnection.log
+saora_front/testem.log
+saora_front/typings
+
+# System files
+saora_front/DS_Store
+saora_front/Thumbs.db
