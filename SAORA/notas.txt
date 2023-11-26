@@ -1,0 +1,12 @@
+Se necesita el servicio de postgres
+
+La construccion de modulo de usuarios esta en proceso
+
+Se decidio utilizar Angular 17 para manejar el front y este se conectara con django
+pasaremos a utilizar django REST
+
+Tareas para hoy:
+    Enlazar a Git el proyecto
+    crecar modulo de fundaciones
+    Homepage de la plataforma
+    
